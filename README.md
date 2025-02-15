@@ -31,7 +31,7 @@ git clone ParthKansara98/GO-SERVER
 2. Navigate to the project directory:
 
 ```
-cd GO SERVER
+cd GO-SERVER
 ```
 
 ## Running the Server
@@ -65,7 +65,7 @@ Then, run the binary:
 ## File Structure
 
 ```
-GO SERVER📂
+GO SERVER
 ├── static/
 │   ├── form.html
 │   ├── index.html
